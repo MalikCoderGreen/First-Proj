@@ -1,2 +1,4 @@
 # Hang Man in python
-One of my first programs I decided to develop in python. I wanted to learn the language in the summer of 2018 and I chose this game to be the project I test my skills on. Writing this script was a lot of fun and it showed me how powerful of a language python is overall. There are some minor bugs however when it comes to the letters being printed on the screen sometimes along with empty spaces. However, I beleive this script is one of my greatest programming acomplishments. 
+This is a script I wrote that simulates a simple game of hangman. The user has a couple of tries to guess the right word before the man appears! For users wanting to play with more words, all you have to do is simply add more words to the dictionary file I have created.
+
+Have fun!

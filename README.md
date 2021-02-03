@@ -13,14 +13,3 @@ The inspiration behind making this program was really getting more familiar with
 - standard
 
 
-||HANGMAN! SAVE THE MAN||
-                                        ===
-                                        | |
-                                        |
-                                        |
-                                        |
-                                       ===
-y _ _ _  
-
-=========================================
-Guess a letter and save the man. :e

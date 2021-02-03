@@ -12,7 +12,7 @@ The inspiration behind making this program was really getting more familiar with
 # Code style
 - standard
 
-# Sample output
+
 ||HANGMAN! SAVE THE MAN||
                                         ===
                                         | |

@@ -3,7 +3,7 @@ This is a script I wrote that simulates a simple game of hangman. The user has a
 
 # To run game
 - Make sure all files are in same directory.
-- command: python hangMan.py or python3 hangMan.py
+- command: python3 hangMan.py
 
 # Motivation
 The inspiration behind making this program was really getting more familiar with the python language and how to utilize it's dynamic and fast data-structures to make something creative and fun. I really enjoyed creating this game and seeing the output all come together bit by bit.  
@@ -16,6 +16,8 @@ The inspiration behind making this program was really getting more familiar with
 # Code style
 - standard
 
+# Version
+- Must have atleast Python==3.0.0
 
 # Sample terminal output
 ![Alt text](https://github.com/MalikCoderGreen/HangMan/blob/master/hangMan.png?raw=true "hang man game screenshot")
